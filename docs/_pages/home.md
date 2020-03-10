@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: "HOME"
 permalink: /
 header:
   overlay_color: "#00020a"
