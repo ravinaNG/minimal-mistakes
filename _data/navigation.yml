@@ -2,7 +2,7 @@
 main:
   - title: "HOME"
 #     url: https://ravinang.github.io/minimal-mistakes/
-      url: /
+      url: "/"
   - title: "SCHOOL"
 #     url: "/_layouts/categories.html"
     layout: default
