@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "HOME"
-permalink: /
+permalink: /home/
 header:
   overlay_color: "#00020a"
   overlay_image: /assets/images/mm-home-page-feature.jpg
