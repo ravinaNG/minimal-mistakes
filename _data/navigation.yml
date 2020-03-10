@@ -6,10 +6,14 @@ main:
 #     url: "/_layouts/categories.html"
     layout: default
   - title: "PRACTICE"
-    url: https://rootbridgeacademy.com/practice/
+#     url: https://rootbridgeacademy.com/practice/
+    layout: default
   - title: "LEARNING"
-    url: https://rootbridgeacademy.com/learning/
+#     url: https://rootbridgeacademy.com/learning/
+    layout: default
   - title: "TEAM"
-    url: https://rootbridgeacademy.com/team/
+#     url: https://rootbridgeacademy.com/team/
+    layout: default
   - title: "JOBS"
-    url: https://rootbridgeacademy.freshteam.com/jobs
+#     url: https://rootbridgeacademy.freshteam.com/jobs
+    layout: default
