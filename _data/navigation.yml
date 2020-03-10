@@ -3,7 +3,8 @@ main:
   - title: "HOME"
     url: https://ravinang.github.io/minimal-mistakes/
   - title: "SCHOOL"
-    url: "/_layouts/categories.html"
+#     url: "/_layouts/categories.html"
+    layout: default
   - title: "PRACTICE"
     url: https://rootbridgeacademy.com/practice/
   - title: "LEARNING"
