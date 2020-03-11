@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "HOME"
-#     url: https://ravinang.github.io/minimal-mistakes/
-      url: /home/
+    url: https://ravinang.github.io/minimal-mistakes/
+#       url: /home/
   - title: "SCHOOL"
 #     url: "/_layouts/categories.html"
     layout: default
