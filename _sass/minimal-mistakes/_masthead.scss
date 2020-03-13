@@ -67,10 +67,11 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  background-color: red;
 
   .site-nav {
     margin-left: 0;
-    background-color: red;
+    
 
 
     @include breakpoint($small) {
