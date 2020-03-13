@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Rootbridge Academy" #"Minimal Mistakes"
-# title_separator          : "-"
-# subtitle                 : "Of Giving Private Limited" #"A Jekyll theme"
+title                    : "Rootbridge Academy" #"Minimal Mistakes"
+title_separator          : "-"
+subtitle                 : "Of Giving Private Limited" #"A Jekyll theme"
 # name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -62,8 +62,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search                   : false # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
   application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
@@ -80,13 +80,13 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "mmistakes"
-facebook:
-  username               : &facebook "michaelrose"
-  app_id                 :
-  publisher              :
-og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+# twitter:
+#   username               : &twitter "mmistakes"
+# facebook:
+#   username               : &facebook "michaelrose"
+#   app_id                 :
+#   publisher              :
+# og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -105,38 +105,38 @@ analytics:
 
 
 # Site Author
-author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
-  links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+# author:
+#   name             : *name # *name is a YAML reference pointing to the &anchor earlier
+#   avatar           : "/assets/images/michael-rose.jpg"
+#   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
+#   location         : "Buffalo, NY"
+#   links:
+#     - label: "Made Mistakes"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://mademistakes.com"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/mmistakes"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/mmistakes"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/mmistakes"
 
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/mmistakes"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/mmistakes"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/mmistakes"
 
 
 # Reading Files
