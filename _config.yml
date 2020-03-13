@@ -15,8 +15,8 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-# title                    : "Rootbridge Academy"
-# title_separator          : "-"
+title                    : "Rootbridge Academy"
+title_separator          : "-"
 subtitle                 : "of Giving PVT. LMT."
 # name                     : "Your Name"
 # description              : "An amazing website."
