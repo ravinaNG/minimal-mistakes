@@ -1,5 +1,5 @@
 ---
-title: "School"
+title: "SCHOOL"
 permalink: /school/
 ---
 
