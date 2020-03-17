@@ -4,8 +4,7 @@ main:
     url: https://ravinang.github.io/minimal-mistakes/
 #       url: /home/
   - title: "SCHOOL"
-#     url: "/about/"
-    layout: default
+    url: /docs/_pages/page-a.md
   - title: "PRACTICE"
 #     url: https://rootbridgeacademy.com/practice/
     layout: default
