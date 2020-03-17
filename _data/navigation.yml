@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "HOME"
-    url: https://ravinang.github.io/minimal-mistakes/
-#       url: /home/
+#     url: https://ravinang.github.io/minimal-mistakes/
+      url: /home/
   - title: "SCHOOL"
-    layout: archive
+    
   - title: "PRACTICE"
 #     url: https://rootbridgeacademy.com/practice/
-    layout: default
+    
   - title: "LEARNING"
 #     url: https://rootbridgeacademy.com/learning/
-    layout: default
+    
   - title: "TEAM"
 #     url: https://rootbridgeacademy.com/team/
-    layout: default
+    
   - title: "JOBS"
 #     url: https://rootbridgeacademy.freshteam.com/jobs
-    layout: default
+    
